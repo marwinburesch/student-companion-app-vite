@@ -1,4 +1,5 @@
 @import './colors.css';
 @import './utility.css';
 @import './base.css';
+@import './page-layout.css';
 @import './components/welcome.css';
