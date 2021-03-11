@@ -1,4 +1,6 @@
 :root {
-  --color-primary: springgreen;
-  --color-secondary: #2b2826;
+  --color-primary: hsl(213, 52.8%, 20.8%);
+  --color-primary-accent: hsl(213, 19.5%, 54.7%);
+  --color-secondary: hsl(11, 100%, 60.6%);
+  --color-secondary-accent: hsl(11, 100%, 76.3%);
 }
